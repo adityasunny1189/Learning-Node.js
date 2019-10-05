@@ -1,0 +1,8 @@
+                                            OPERATING SYSTEM
+                                        
+                                        PROCESS SYNCRONIZATION
+
+1.COOPERATIVE PROCESS
+2.INDEPENDENT PROCESS
+
+1.COOPERATIVE PROCESS:- A Process that can affect or be affected by other process executing in the system.
