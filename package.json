@@ -1,0 +1,19 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "this is collection of learning nodejs process",
+  "main": "firstnode1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityasunny1189/Learning-Node.js.git"
+  },
+  "author": "aditya-pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityasunny1189/Learning-Node.js/issues"
+  },
+  "homepage": "https://github.com/adityasunny1189/Learning-Node.js#readme"
+}
