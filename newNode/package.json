@@ -1,0 +1,11 @@
+{
+  "name": "new-nodejs",
+  "version": "1.0.0",
+  "description": "contains nodes files",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aditya pathak",
+  "license": "ISC"
+}
